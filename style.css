@@ -1,0 +1,33 @@
+/* Logo Start */
+.logo {
+    width: 300px;
+    background-color: white;
+}
+/* Logo End */
+
+/* Header Start */
+.header {
+    background-color: #DD7100;
+    padding: 20px;
+    height: auto;
+}
+/* Header End */
+
+/* Button Start */
+.addbutton {
+    width: 25%;
+    background-color: #D6D6CA;
+    border: #D6D6CA;
+    color: black;
+}
+/* Button End */
+
+/* Li Style Start  */
+.list-group-item:nth-child(odd) {   
+    background-color: #f5f5f5;
+    
+}
+.list-group-item {
+    cursor: pointer;
+}
+/* Li Style End */
